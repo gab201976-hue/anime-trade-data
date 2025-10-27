@@ -1,482 +1,602 @@
 {
   "(Shiny) Legendary Super Broly": {
     "value": "Under Speculation",
-    "traits": 0
+    "traits": 0,
+    "popularity": 3.0
   },
   "(Shiny) Diavolo (Requiem)": {
     "value": "Owner's Choice",
-    "traits": 0
+    "traits": 0,
+    "popularity": 5.0
   },
   "(Shiny) octopus/ikalgo": {
     "value": 5500.0,
-    "traits": 1100.0
+    "traits": 1100.0,
+    "popularity": 2.0
   },
   "Legendary Super Broly": {
     "value": "Under Speculation",
-    "traits": 0
+    "traits": 0,
+    "popularity": 3.0
   },
   "(Shiny) Subaru (Contract)": {
     "value": 300.0,
-    "traits": 600.0
+    "traits": 600.0,
+    "popularity": 3.0
   },
   "(Shiny) Seban": {
     "value": "Under Speculation",
-    "traits": 0
+    "traits": 0,
+    "popularity": 3.0
   },
   "octopus/ikalgo": {
     "value": 2100.0,
-    "traits": 420.0
+    "traits": 420.0,
+    "popularity": 2.0
   },
   "(Shiny) Esdeath (Romantic)": {
     "value": 1900.0,
-    "traits": 380.0
+    "traits": 380.0,
+    "popularity": 4.0
   },
   "Diavolo (Requiem)": {
     "value": 1700.0,
-    "traits": 340.0
+    "traits": 340.0,
+    "popularity": 5.0
   },
   "(Shiny) Mark (Conqueror vs Invulnerable)": {
     "value": 1650.0,
-    "traits": 310.0
+    "traits": 310.0,
+    "popularity": 5.0
   },
   "(Shiny) Frieren (Teacher)": {
     "value": 1400.0,
-    "traits": 280.0
+    "traits": 280.0,
+    "popularity": 3.0
   },
   "(Shiny) Katakuri (Mochi)": {
     "value": 1160.0,
-    "traits": 230.0
+    "traits": 230.0,
+    "popularity": 3.0
   },
   "Seban": {
     "value": "Under Speculation",
-    "traits": 0
+    "traits": 0,
+    "popularity": 3.0
   },
   "(Shiny) SSJ4 Gogeta": {
     "value": 975.0,
-    "traits": 195.0
+    "traits": 195.0,
+    "popularity": 4.0
   },
   "(Shiny) Giselle (Zombie)": {
     "value": 950.0,
-    "traits": 190.0
+    "traits": 190.0,
+    "popularity": 3.0
   },
   "(Shiny) Diego Brando (Alternate)": {
     "value": 900.0,
-    "traits": 180.0
+    "traits": 180.0,
+    "popularity": 3.0
   },
   "(Shiny) Jin Mori (Monkey King Awakened)": {
     "value": 870.0,
-    "traits": 174.0
+    "traits": 174.0,
+    "popularity": 5.0
   },
   "(Shiny) Coyote Starrk (Resurrection)": {
     "value": 775.0,
-    "traits": 155.0
+    "traits": 155.0,
+    "popularity": 4.0
   },
   "(Shiny) Rengoku (Purgatory)": {
     "value": 750.0,
-    "traits": 150.0
+    "traits": 150.0,
+    "popularity": 3.0
   },
   "(Shiny) Kaguya (Unsealed)": {
     "value": 575.0,
-    "traits": 115.0
+    "traits": 115.0,
+    "popularity": 4.0
   },
   "(Shiny) Seiko (Spirit Medium)": {
     "value": 550.0,
-    "traits": 110.0
+    "traits": 110.0,
+    "popularity": 1.0
   },
   "(Shiny) Escanor (Pride)": {
     "value": 525.0,
-    "traits": 105.0
+    "traits": 105.0,
+    "popularity": 5.0
   },
   "Haruka Rin": {
     "value": 475.0,
-    "traits": 95.0
+    "traits": 95.0,
+    "popularity": 3.0
   },
   "(Shiny) Gilgamesh (King of Heroes)": {
     "value": 350.0,
-    "traits": 70.0
+    "traits": 70.0,
+    "popularity": 3.0
   },
   "(Shiny) Mereoleona (Fangs)": {
     "value": 280.0,
-    "traits": 56.0
+    "traits": 56.0,
+    "popularity": 3.0
   },
   "Subaru (Contract)": {
     "value": 275.0,
-    "traits": 55.0
+    "traits": 55.0,
+    "popularity": 3.0
   },
   "(Shiny) Bardock": {
     "value": 270.0,
-    "traits": 54.0
+    "traits": 54.0,
+    "popularity": 3.0
   },
   "(Shiny) Ginyu": {
     "value": 250.0,
-    "traits": 50.0
+    "traits": 50.0,
+    "popularity": 3.0
   },
   "Esdeath (Romantic)": {
     "value": 240.0,
-    "traits": 48.0
+    "traits": 48.0,
+    "popularity": 4.0
   },
   "Haruka Rin (Dancer)": {
     "value": 235.0,
-    "traits": 47.0
+    "traits": 47.0,
+    "popularity": 3.0
   },
   "Giselle (Zombie)": {
     "value": 235.0,
-    "traits": 47.0
+    "traits": 47.0,
+    "popularity": 3.0
   },
   "(Shiny) Mahito": {
     "value": 215.0,
-    "traits": 45.0
+    "traits": 45.0,
+    "popularity": 3.0
   },
   "(Shiny) Mechanaru": {
     "value": 210.0,
-    "traits": 42.0
+    "traits": 42.0,
+    "popularity": 2.0
   },
   "(Shiny) Toji (Sorcerer Killer)": {
     "value": 200.0,
-    "traits": 40.0
+    "traits": 40.0,
+    "popularity": 2.0
   },
   "(Shiny) Ragna (Rage)": {
     "value": 200.0,
-    "traits": 40.0
+    "traits": 40.0,
+    "popularity": 3.0
   },
   "SSJ4 Gogeta": {
     "value": 190.0,
-    "traits": 38.0
+    "traits": 38.0,
+    "popularity": 2.0
   },
   "(Shiny) Choi Jong-in (Guild Leader)": {
     "value": 175.0,
-    "traits": 35.0
+    "traits": 35.0,
+    "popularity": 2.0
   },
   "Kaguya (Unsealed)": {
     "value": 140.0,
-    "traits": 28.0
+    "traits": 28.0,
+    "popularity": 3.0
   },
   "Escanor (Pride)": {
     "value": 120.0,
-    "traits": 24.0
+    "traits": 24.0,
+    "popularity": 1.0
   },
   "(Shiny) Killer Bee": {
     "value": 110.0,
-    "traits": 22.0
+    "traits": 22.0,
+    "popularity": 5.0
   },
   "(Shiny) Rock Lee": {
     "value": 110.0,
-    "traits": 22.0
+    "traits": 22.0,
+    "popularity": 5.0
   },
   "Bardock": {
     "value": 100.0,
-    "traits": 20.0
+    "traits": 20.0,
+    "popularity": 3.0
   },
   "Ginyu": {
     "value": 100.0,
-    "traits": 20.0
+    "traits": 20.0,
+    "popularity": 3.0
   },
   "Diego Brando (Alternate)": {
     "value": 95.0,
-    "traits": 20.0
+    "traits": 20.0,
+    "popularity": 2.0
   },
   "Mark (Conqueror vs Invulnerable)": {
     "value": 95.0,
-    "traits": 19.0
+    "traits": 19.0,
+    "popularity": 4.0
   },
   "Seiko (Spirit Medium)": {
     "value": 95.0,
-    "traits": 19.0
+    "traits": 19.0,
+    "popularity": 1.0
   },
   "Frieren (Teacher)": {
     "value": 90.0,
-    "traits": 18.0
+    "traits": 18.0,
+    "popularity": 2.0
   },
   "Katakuri (Mochi)": {
     "value": 90.0,
-    "traits": 18.0
+    "traits": 18.0,
+    "popularity": 4.0
   },
   "Jin Mori (Monkey King Awakened)": {
     "value": 87.0,
-    "traits": 18.0
+    "traits": 18.0,
+    "popularity": 5.0
   },
   "Rengoku (Purgatory)": {
     "value": 85.0,
-    "traits": 17.0
+    "traits": 17.0,
+    "popularity": 2.0
   },
   "Coyote Starrk (Resurrection)": {
     "value": 75.0,
-    "traits": 15.0
+    "traits": 15.0,
+    "popularity": 3.0
   },
   "(Shiny) Julius Reinberg": {
     "value": 75.0,
-    "traits": 15.0
+    "traits": 15.0,
+    "popularity": 2.0
   },
   "(Shiny) Sion Ulster": {
     "value": 75.0,
-    "traits": 15.0
+    "traits": 15.0,
+    "popularity": 2.0
   },
   "(Shiny) Rimuru (Slime King)": {
     "value": 70.0,
-    "traits": 14.0
+    "traits": 14.0,
+    "popularity": 2.0
   },
   "Mahito": {
     "value": 70.0,
-    "traits": 14.0
+    "traits": 14.0,
+    "popularity": 3.0
   },
   "Mechanaru": {
     "value": 65.0,
-    "traits": 13.0
+    "traits": 13.0,
+    "popularity": 1.0
   },
   "(Shiny) Dante (Jackpot)": {
     "value": 60.0,
-    "traits": 12.0
+    "traits": 12.0,
+    "popularity": 4.0
   },
   "(Shiny) Virgil (Power)": {
     "value": 60.0,
-    "traits": 12.0
+    "traits": 12.0,
+    "popularity": 4.0
   },
   "(Shiny) Sasori (Puppeteer)": {
     "value": 55.0,
-    "traits": 11.0
+    "traits": 11.0,
+    "popularity": 1.0
   },
   "(Shiny) Deidara (Explosive)": {
     "value": 55.0,
-    "traits": 11.0
+    "traits": 11.0,
+    "popularity": 1.0
   },
   "(Shiny) Lucy (Hacker)": {
     "value": 55.0,
-    "traits": 11.0
+    "traits": 11.0,
+    "popularity": 2.0
   },
   "(Shiny) David (Cyber Psycho)": {
     "value": 55.0,
-    "traits": 11.0
+    "traits": 11.0,
+    "popularity": 2.0
   },
   "(Shiny) Momo (Psychic)": {
     "value": 55.0,
-    "traits": 11.0
+    "traits": 11.0,
+    "popularity": 2.0
   },
   "(Shiny) Okarun (Turbo)": {
     "value": 55.0,
-    "traits": 11.0
+    "traits": 11.0,
+    "popularity": 1.0
   },
   "(Shiny) Peeny-Weeny (Boxer)": {
     "value": 55.0,
-    "traits": 11.0
+    "traits": 11.0,
+    "popularity": 1.0
   },
   "(Shiny) Reimu (Shrine Maid)": {
     "value": 55.0,
-    "traits": 10.0
+    "traits": 10.0,
+    "popularity": 4.0
   },
   "Gilgamesh (King of Heroes)": {
     "value": 54.0,
-    "traits": 10.0
+    "traits": 10.0,
+    "popularity": 4.0
   },
   "Rock Lee": {
     "value": 50.0,
-    "traits": 10.0
+    "traits": 10.0,
+    "popularity": 3.0
   },
   "Killer Bee": {
     "value": 50.0,
-    "traits": 10.0
+    "traits": 10.0,
+    "popularity": 3.0
   },
   "(Shiny) Goblin Slayer (Trapper)": {
     "value": 45.0,
-    "traits": 9.0
+    "traits": 9.0,
+    "popularity": 3.0
   },
   "(Shiny) Rem and Ram (Fanatic)": {
     "value": 40.0,
-    "traits": 8.0
+    "traits": 8.0,
+    "popularity": 1.0
   },
   "(Shiny) Kareem (Chilled)": {
     "value": 40.0,
-    "traits": 8.0
+    "traits": 8.0,
+    "popularity": 1.0
   },
   "(Shiny) Emilia (Ice Witch)": {
     "value": 40.0,
-    "traits": 8.0
+    "traits": 8.0,
+    "popularity": 1.0
   },
   "(Shiny) Fubuki (Hellish)": {
     "value": 40.0,
-    "traits": 8.0
+    "traits": 8.0,
+    "popularity": 1.0
   },
   "(Shiny) Ishtar (Divinity)": {
     "value": 40.0,
-    "traits": 8.0
+    "traits": 8.0,
+    "popularity": 1.0
   },
   "(Shiny) Weather Report": {
     "value": 40.0,
-    "traits": 8.0
+    "traits": 8.0,
+    "popularity": 5.0
   },
   "(Shiny) Quetzalcoatl (Sun God)": {
     "value": 40.0,
-    "traits": 8.0
+    "traits": 8.0,
+    "popularity": 4.0
   },
   "(Shiny) Priestess (Holy)": {
     "value": 35.0,
-    "traits": 7.0
+    "traits": 7.0,
+    "popularity": 2.0
   },
   "(Shiny) Aladdin (Good)": {
     "value": 30.0,
-    "traits": 6.0
+    "traits": 6.0,
+    "popularity": 3.0
   },
   "(Shiny) Judar (Dark Mage)": {
     "value": 25.0,
-    "traits": 5.0
+    "traits": 5.0,
+    "popularity": 3.0
   },
   "(Shiny) Sakuya (Time Maid)": {
     "value": 25.0,
-    "traits": 5.0
+    "traits": 5.0,
+    "popularity": 2.0
   },
   "Mereoleona (Fangs)": {
     "value": 25.0,
-    "traits": 5.0
+    "traits": 5.0,
+    "popularity": 3.0
   },
   "(Shiny) Hei (Black Dragon)": {
     "value": 25.0,
-    "traits": 5.0
+    "traits": 5.0,
+    "popularity": 2.0
   },
   "(Shiny) Alibaba (Djinn)": {
     "value": 25.0,
-    "traits": 5.0
+    "traits": 5.0,
+    "popularity": 3.0
   },
   "(Shiny) Hibana (Clematis)": {
     "value": 25.0,
-    "traits": 5.0
+    "traits": 5.0,
+    "popularity": 1.0
   },
   "(Shiny) Merlin (Gluttony)": {
     "value": 25.0,
-    "traits": 5.0
+    "traits": 5.0,
+    "popularity": 1.0
   },
   "(Shiny) Rudeus Greyrat (Prodigy)": {
     "value": 25.0,
-    "traits": 5.0
+    "traits": 5.0,
+    "popularity": 2.0
   },
   "(Shiny) Arcueid Brunestud (True Ancestor)": {
     "value": 25.0,
-    "traits": 5.0
+    "traits": 5.0,
+    "popularity": 2.0
   },
   "Reimu (Shrine Maid)": {
     "value": 20.0,
-    "traits": 4.0
+    "traits": 4.0,
+    "popularity": 4.0
   },
   "Dante (Jackpot)": {
     "value": 20.0,
-    "traits": 4.0
+    "traits": 4.0,
+    "popularity": 5.0
   },
   "Virgil (Power)": {
     "value": 20.0,
-    "traits": 4.0
+    "traits": 4.0,
+    "popularity": 4.0
   },
   "Ragna (Rage)": {
     "value": 20.0,
-    "traits": 4.0
+    "traits": 4.0,
+    "popularity": 2.0
   },
   "Rimuru (Slime King)": {
     "value": 20.0,
-    "traits": 4.0
+    "traits": 4.0,
+    "popularity": 2.0
   },
   "Choi Jong-in (Guild Leader)": {
     "value": 20.0,
-    "traits": 4.0
+    "traits": 4.0,
+    "popularity": 1.0
   },
   "Toji (Sorcerer Killer)": {
     "value": 15.0,
-    "traits": 3.0
+    "traits": 3.0,
+    "popularity": 2.0
   },
   "Sion Ulster": {
     "value": 15.0,
-    "traits": 3.0
+    "traits": 3.0,
+    "popularity": 1.0
   },
   "Julius Reinberg": {
     "value": 15.0,
-    "traits": 3.0
+    "traits": 3.0,
+    "popularity": 1.0
   },
   "Deidara (Explosive)": {
     "value": 10.0,
-    "traits": 2.0
+    "traits": 2.0,
+    "popularity": 1.0
   },
   "Sasori (Puppeteer)": {
     "value": 10.0,
-    "traits": 2.0
+    "traits": 2.0,
+    "popularity": 1.0
   },
   "Goblin Slayer (Trapper)": {
     "value": 10.0,
-    "traits": 2.0
+    "traits": 2.0,
+    "popularity": 3.0
   },
   "Priestess (Holy)": {
     "value": 10.0,
-    "traits": 2.0
+    "traits": 2.0,
+    "popularity": 3.0
   },
   "Aladdin (Good)": {
     "value": 10.0,
-    "traits": 2.0
+    "traits": 2.0,
+    "popularity": 3.0
   },
   "Sakuya (Time Maid)": {
     "value": 10.0,
-    "traits": 2.0
+    "traits": 2.0,
+    "popularity": 2.0
   },
   "Judar (Dark Mage)": {
     "value": 10.0,
-    "traits": 2.0
+    "traits": 2.0,
+    "popularity": 3.0
   },
   "Ishtar (Divinity)": {
     "value": 10.0,
-    "traits": 2.0
+    "traits": 2.0,
+    "popularity": 1.0
   },
   "Weather Report": {
     "value": 10.0,
-    "traits": 2.0
+    "traits": 2.0,
+    "popularity": 4.0
   },
   "Quetzalcoatl (Sun God)": {
     "value": 5.0,
-    "traits": 2.0
+    "traits": 2.0,
+    "popularity": 3.0
   },
   "Okarun (Turbo)": {
     "value": 5.0,
-    "traits": 1.0
+    "traits": 1.0,
+    "popularity": 1.0
   },
   "Momo (Psychic)": {
     "value": 5.0,
-    "traits": 1.0
+    "traits": 1.0,
+    "popularity": 1.0
   },
   "Peeny-Weeny (Boxer)": {
     "value": 5.0,
-    "traits": 1.0
+    "traits": 1.0,
+    "popularity": 1.0
   },
   "Rudeus Greyrat (Prodigy)": {
     "value": 5.0,
-    "traits": 1.0
+    "traits": 1.0,
+    "popularity": 1.0
   },
   "Arcueid Brunestud (True Ancestor)": {
     "value": 5.0,
-    "traits": 1.0
+    "traits": 1.0,
+    "popularity": 1.0
   },
   "Hibana (Clematis)": {
     "value": 5.0,
-    "traits": 1.0
+    "traits": 1.0,
+    "popularity": 1.0
   },
   "Merlin (Gluttony)": {
     "value": 5.0,
-    "traits": 1.0
+    "traits": 1.0,
+    "popularity": 1.0
   },
   "Alibaba (Djinn)": {
     "value": 5.0,
-    "traits": 1.0
+    "traits": 1.0,
+    "popularity": 1.0
   },
   "Hei (Black Dragon)": {
     "value": 5.0,
-    "traits": 1.0
+    "traits": 1.0,
+    "popularity": 1.0
   },
   "Emilia (Ice Witch)": {
     "value": 5.0,
-    "traits": 1.0
+    "traits": 1.0,
+    "popularity": 1.0
   },
   "Rem and Ram (Fanatic)": {
     "value": 5.0,
-    "traits": 1.0
+    "traits": 1.0,
+    "popularity": 1.0
   },
   "Fubuki (Hellish)": {
     "value": 5.0,
-    "traits": 1.0
+    "traits": 1.0,
+    "popularity": 1.0
   },
   "Kareem (Chilled)": {
     "value": 5.0,
-    "traits": 1.0
+    "traits": 1.0,
+    "popularity": 1.0
   }
 }
