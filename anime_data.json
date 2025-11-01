@@ -12,7 +12,7 @@
     "tier": "神 Tier"
   },
   "(Shiny) Octopus / Ikalgo": {
-    "value": 6.75,
+    "value": 6.750,
     "traits": 1350,
     "popularity": 4.0,
     "tier": "神 Tier"
@@ -732,3 +732,4 @@
     "tier": "C Tier"
   }
 }
+
