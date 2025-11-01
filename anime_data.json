@@ -1,60 +1,60 @@
 {
   "(Shiny) Legendary Super Brolzi / Broly": {
-    "value": 9.000,
+    "value": 9000,
     "traits": 1800,
     "popularity": 5.0,
     "tier": "神 Tier"
   },
   "(Shiny) Divalo (Requiem) / Diavolo": {
-    "value": 8.375,
+    "value": 8375,
     "traits": 1675,
     "popularity": 6.0,
     "tier": "神 Tier"
   },
   "(Shiny) Octopus / Ikalgo": {
-    "value": 6.750,
+    "value": 6750,
     "traits": 1350,
     "popularity": 4.0,
     "tier": "神 Tier"
   },
   "Legendary Super Brolzi / Broly": {
-    "value": 3.375,
+    "value": 3375,
     "traits": 675,
     "popularity": 5.0,
     "tier": "神 Tier"
   },
   "(Shiny) Soburo (Contract) / Subaru": {
-    "value": 3.275,
+    "value": 3275,
     "traits": 655,
     "popularity": 6.0,
     "tier": "神 Tier"
   },
   "(Shiny) Isdead (Romantic) / Esdeath": {
-    "value": 3.250,
+    "value": 3250,
     "traits": 650,
     "popularity": 6.0,
     "tier": "神 Tier"
   },
   "Octopus / Ikalgo": {
-    "value": 2.625,
+    "value": 2625,
     "traits": 525,
     "popularity": 4.0,
     "tier": "神 Tier"
   },
   "(Shiny) Seban / Seven": {
-    "value": 2.600,
+    "value": 2600,
     "traits": 520,
     "popularity": 4.0,
     "tier": "神 Tier"
   },
   "(Shiny) Saiko (Spirit Medium) / Seiko": {
-    "value": 2.175,
+    "value": 2175,
     "traits": 435,
     "popularity": 3.0,
     "tier": "神 Tier"
   },
   "(Shiny) Choy Jong En (Guild Leader) / Choi": {
-    "value": 2.150,
+    "value": 2150,
     "traits": 430,
     "popularity": 5.0,
     "tier": "神 Tier"
@@ -66,31 +66,31 @@
     "tier": "神 Tier"
   },
   "(Shiny) Rogita (Super 4) / SSJ4 Gogeta": {
-    "value": 1.925,
+    "value": 1925,
     "traits": 385,
     "popularity": 5.0,
     "tier": "神 Tier"
   },
   "(Shiny) Gazelle (Zombie) / Giselle": {
-    "value": 1.825,
+    "value": 1825,
     "traits": 365,
     "popularity": 5.0,
     "tier": "神 Tier"
   },
   "Seban / Seven": {
-    "value": 1.500,
+    "value": 1500,
     "traits": 300,
     "popularity": 3.0,
     "tier": "神 Tier"
   },
   "(Shiny) Conqueror vs Invulnerable / Mark": {
-    "value": 1.150,
+    "value": 1150,
     "traits": 230,
     "popularity": 7.0,
     "tier": "神 Tier"
   },
   "(Shiny) Clatakiri (Mochi) / Katakuri": {
-    "value": 1.100,
+    "value": 1100,
     "traits": 220,
     "popularity": 6.0,
     "tier": "神 Tier"
@@ -732,4 +732,5 @@
     "tier": "C Tier"
   }
 }
+
 
