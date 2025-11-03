@@ -6,8 +6,8 @@
     "tier": "神 Tier"
   },
   "(Shiny) Divalo (Requiem) / Diavolo": {
-    "value": 8375,
-    "traits": 1675,
+    "value": 8625,
+    "traits": 1725,
     "popularity": 6.0,
     "tier": "神 Tier"
   },
@@ -47,6 +47,12 @@
     "popularity": 4.0,
     "tier": "神 Tier"
   },
+  "Divalo (Requiem) / Diavolo": {
+    "value": 2000,
+    "traits": 400,
+    "popularity": 8.0,
+    "tier": "神 Tier"
+  },
   "(Shiny) Saiko (Spirit Medium) / Seiko": {
     "value": 2175,
     "traits": 435,
@@ -57,12 +63,6 @@
     "value": 2150,
     "traits": 430,
     "popularity": 5.0,
-    "tier": "神 Tier"
-  },
-  "Divalo (Requiem) / Diavolo": {
-    "value": 2000,
-    "traits": 400,
-    "popularity": 8.0,
     "tier": "神 Tier"
   },
   "(Shiny) Rogita (Super 4) / SSJ4 Gogeta": {
@@ -96,16 +96,10 @@
     "tier": "神 Tier"
   },
   "(Shiny) Monkey King (Awakened) / Jin Mori": {
-    "value": 900,
-    "traits": 180,
+    "value": 1050,
+    "traits": 210,
     "popularity": 7.0,
     "tier": "神 Tier"
-  },
-  "(Shiny) Wolf (Resurrection) / Coyote Starrk": {
-    "value": 1025,
-    "traits": 205,
-    "popularity": 6.0,
-    "tier": "S-A Tier"
   },
   "(Shiny) Diogo (Alternate) / Diego Brando": {
     "value": 1000,
@@ -125,16 +119,16 @@
     "popularity": 5.0,
     "tier": "S-A Tier"
   },
+  "(Shiny) Koguro (Unsealed) / Kaguya": {
+    "value": 700,
+    "traits": 140,
+    "popularity": 7.0,
+    "tier": "S-A Tier"
+  },
   "(Shiny) Tuji (Sorcerer Killer) / Toji": {
     "value": 700,
     "traits": 140,
     "popularity": 5.0,
-    "tier": "S-A Tier"
-  },
-  "(Shiny) Koguro (Unsealed) / Kaguya": {
-    "value": 650,
-    "traits": 130,
-    "popularity": 7.0,
     "tier": "S-A Tier"
   },
   "(Shiny) Friran (Teacher) / Frieren": {
@@ -162,21 +156,21 @@
     "tier": "S-A Tier"
   },
   "Rogita (Super 4) / SSJ4 Gogeta": {
-    "value": 400,
-    "traits": 80,
+    "value": 375,
+    "traits": 75,
     "popularity": 6.0,
-    "tier": "S-A Tier"
-  },
-  "(Shiny) Iscanur (Pride) / Escanor": {
-    "value": 335,
-    "traits": 67,
-    "popularity": 7.0,
     "tier": "S-A Tier"
   },
   "Haruka Rin": {
     "value": 300,
     "traits": 60,
     "popularity": 6.0,
+    "tier": "S-A Tier"
+  },
+  "Koguro (Unsealed) / Kaguya": {
+    "value": 275,
+    "traits": 55,
+    "popularity": 7.0,
     "tier": "S-A Tier"
   },
   "(Shiny) Slime (King) / Rimuru": {
@@ -195,18 +189,6 @@
     "value": 215,
     "traits": 43,
     "popularity": 4.0,
-    "tier": "S-A Tier"
-  },
-  "Koguro (Unsealed) / Kaguya": {
-    "value": 200,
-    "traits": 40,
-    "popularity": 7.0,
-    "tier": "S-A Tier"
-  },
-  "(Shiny) Leo (Fangs) / Mereoleona": {
-    "value": 200,
-    "traits": 40,
-    "popularity": 3.0,
     "tier": "S-A Tier"
   },
   "(Shiny) Mohato / Mahito": {
@@ -249,12 +231,6 @@
     "value": 100,
     "traits": 20,
     "popularity": 4.0,
-    "tier": "B Tier"
-  },
-  "Iscanur (Pride) / Escanor": {
-    "value": 95,
-    "traits": 19,
-    "popularity": 5.0,
     "tier": "B Tier"
   },
   "(Shiny) Ishtar (Divinity)": {
@@ -314,12 +290,6 @@
   "Monkey King (Awakened) / Jin Mori": {
     "value": 70,
     "traits": 14,
-    "popularity": 5.0,
-    "tier": "B Tier"
-  },
-  "Wolf (Resurrection) / Coyote Starrk": {
-    "value": 65,
-    "traits": 13,
     "popularity": 5.0,
     "tier": "B Tier"
   },
@@ -402,14 +372,14 @@
     "tier": "B Tier"
   },
   "(Shiny) Foboko (Hellish) / Fubuki": {
-    "value": 30,
-    "traits": 6,
+    "value": 25,
+    "traits": 5,
     "popularity": 4.0,
     "tier": "C Tier"
   },
   "(Shiny) Emmie (Ice Witch) / Emilia": {
-    "value": 30,
-    "traits": 6,
+    "value": 25,
+    "traits": 5,
     "popularity": 4.0,
     "tier": "C Tier"
   },
@@ -692,7 +662,7 @@
   "Dave (Cyber Pyscho) / David": {
     "value": 5,
     "traits": 1,
-    "popularity": 0,
+    "popularity": 1.0,
     "tier": "C Tier"
   },
   "Dawntay (Jackpot) / Dante": {
@@ -732,5 +702,3 @@
     "tier": "C Tier"
   }
 }
-
-
