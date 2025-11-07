@@ -1,68 +1,68 @@
 {
   "(Shiny) Legendary Super Brolzi / Broly": {
-    "value": 9000,
-    "traits": 1800,
+    "value": "Owner's Choice",
+    "traits": 0,
     "popularity": 5.0,
     "tier": "神 Tier"
   },
   "(Shiny) Divalo (Requiem) / Diavolo": {
-    "value": 8625,
-    "traits": 1725,
-    "popularity": 6.0,
+    "value": "Owner's Choice",
+    "traits": 0,
+    "popularity": 7.0,
     "tier": "神 Tier"
   },
   "(Shiny) Octopus / Ikalgo": {
-    "value": 6750,
-    "traits": 1350,
-    "popularity": 4.0,
+    "value": "Owner's Choice",
+    "traits": 0,
+    "popularity": 3.0,
     "tier": "神 Tier"
   },
   "Legendary Super Brolzi / Broly": {
-    "value": 3375,
-    "traits": 675,
+    "value": 5250,
+    "traits": 1050,
     "popularity": 5.0,
     "tier": "神 Tier"
   },
+  "Octopus / Ikalgo": {
+    "value": 3750,
+    "traits": 750,
+    "popularity": 3.0,
+    "tier": "神 Tier"
+  },
   "(Shiny) Soburo (Contract) / Subaru": {
-    "value": 3275,
-    "traits": 655,
+    "value": 3150,
+    "traits": 630,
     "popularity": 6.0,
+    "tier": "神 Tier"
+  },
+  "Divalo (Requiem) / Diavolo": {
+    "value": 3000,
+    "traits": 600,
+    "popularity": 9.0,
     "tier": "神 Tier"
   },
   "(Shiny) Isdead (Romantic) / Esdeath": {
-    "value": 3250,
-    "traits": 650,
+    "value": 2950,
+    "traits": 590,
     "popularity": 6.0,
-    "tier": "神 Tier"
-  },
-  "Octopus / Ikalgo": {
-    "value": 2625,
-    "traits": 525,
-    "popularity": 4.0,
     "tier": "神 Tier"
   },
   "(Shiny) Seban / Seven": {
     "value": 2600,
     "traits": 520,
-    "popularity": 4.0,
-    "tier": "神 Tier"
-  },
-  "Divalo (Requiem) / Diavolo": {
-    "value": 2000,
-    "traits": 400,
-    "popularity": 8.0,
-    "tier": "神 Tier"
-  },
-  "(Shiny) Saiko (Spirit Medium) / Seiko": {
-    "value": 2175,
-    "traits": 435,
     "popularity": 3.0,
     "tier": "神 Tier"
   },
-  "(Shiny) Choy Jong En (Guild Leader) / Choi": {
-    "value": 2150,
-    "traits": 430,
+  "(Shiny) Saiko (Spirit Medium) / Seiko": {
+    "value": 2350,
+    "traits": 470,
     "popularity": 5.0,
+    "tier": "神 Tier"
+  },
+  "(Shiny) Koguro (Unsealed) / Kaguya": {
+    "value": 2100,
+    "traits": 420,
+    "popularity": 8.0,
     "tier": "神 Tier"
   },
   "(Shiny) Rogita (Super 4) / SSJ4 Gogeta": {
@@ -77,250 +77,286 @@
     "popularity": 5.0,
     "tier": "神 Tier"
   },
-  "Seban / Seven": {
-    "value": 1500,
-    "traits": 300,
-    "popularity": 3.0,
+  "(Shiny) Conqueror vs Invulnerable / Mark": {
+    "value": 1550,
+    "traits": 310,
+    "popularity": 8.0,
     "tier": "神 Tier"
   },
-  "(Shiny) Conqueror vs Invulnerable / Mark": {
-    "value": 1150,
-    "traits": 230,
+  "(Shiny) Monkey King (Awakened) / Jin Mori": {
+    "value": 1525,
+    "traits": 305,
     "popularity": 7.0,
     "tier": "神 Tier"
   },
   "(Shiny) Clatakiri (Mochi) / Katakuri": {
-    "value": 1100,
-    "traits": 220,
+    "value": 1450,
+    "traits": 290,
     "popularity": 6.0,
     "tier": "神 Tier"
   },
-  "(Shiny) Monkey King (Awakened) / Jin Mori": {
-    "value": 1050,
-    "traits": 210,
-    "popularity": 7.0,
+  "Seban / Seven": {
+    "value": 1425,
+    "traits": 285,
+    "popularity": 3.0,
     "tier": "神 Tier"
   },
   "(Shiny) Diogo (Alternate) / Diego Brando": {
-    "value": 1000,
+    "value": 1400,
+    "traits": 280,
+    "popularity": 7.0,
+    "tier": "神 Tier"
+  },
+  "(Shiny) Choy Jong En (Guild Leader) / Choi": {
+    "value": 1325.0,
+    "traits": 265,
+    "popularity": 3.0,
+    "tier": "S-A Tier"
+  },
+  "(Shiny) Friran (Teacher) / Frieren": {
+    "value": 1250.0,
+    "traits": 250,
+    "popularity": 5.0,
+    "tier": "S-A Tier"
+  },
+  "(Shiny) Regnaw (Rage) / Ragna": {
+    "value": 1050.0,
+    "traits": 210,
+    "popularity": 6.0,
+    "tier": "S-A Tier"
+  },
+  "(Shiny) Renguko (Purgatory) / Rengoku": {
+    "value": 1000.0,
     "traits": 200,
     "popularity": 5.0,
     "tier": "S-A Tier"
   },
   "(Shiny) Gilgamesh (King of Heroes) / Gilgamesh": {
-    "value": 925,
-    "traits": 185,
-    "popularity": 6.0,
-    "tier": "S-A Tier"
-  },
-  "(Shiny) Renguko (Purgatory) / Rengoku": {
-    "value": 775,
-    "traits": 155,
-    "popularity": 5.0,
-    "tier": "S-A Tier"
-  },
-  "(Shiny) Koguro (Unsealed) / Kaguya": {
-    "value": 700,
-    "traits": 140,
-    "popularity": 7.0,
+    "value": 875.0,
+    "traits": 175,
+    "popularity": 4.0,
     "tier": "S-A Tier"
   },
   "(Shiny) Tuji (Sorcerer Killer) / Toji": {
-    "value": 700,
-    "traits": 140,
-    "popularity": 5.0,
+    "value": 850.0,
+    "traits": 170,
+    "popularity": 4.0,
     "tier": "S-A Tier"
   },
-  "(Shiny) Friran (Teacher) / Frieren": {
-    "value": 650,
-    "traits": 130,
-    "popularity": 5.0,
-    "tier": "S-A Tier"
-  },
-  "(Shiny) Regnaw (Rage) / Ragna": {
-    "value": 625,
-    "traits": 125,
-    "popularity": 6.0,
+  "Koguro (Unsealed) / Kaguya": {
+    "value": 750.0,
+    "traits": 150,
+    "popularity": 10.0,
     "tier": "S-A Tier"
   },
   "Isdead (Romantic) / Esdeath": {
-    "value": 475,
-    "traits": 95,
+    "value": 600.0,
+    "traits": 120,
     "popularity": 6.0,
     "tier": "S-A Tier"
   },
   "Soburo (Contract) / Subaru": {
-    "value": 450,
-    "traits": 90,
+    "value": 575.0,
+    "traits": 115,
     "popularity": 6.0,
     "tier": "S-A Tier"
   },
   "Rogita (Super 4) / SSJ4 Gogeta": {
-    "value": 375,
-    "traits": 75,
-    "popularity": 6.0,
-    "tier": "S-A Tier"
-  },
-  "Haruka Rin": {
-    "value": 300,
-    "traits": 60,
-    "popularity": 6.0,
-    "tier": "S-A Tier"
-  },
-  "Koguro (Unsealed) / Kaguya": {
-    "value": 275,
-    "traits": 55,
-    "popularity": 7.0,
-    "tier": "S-A Tier"
-  },
-  "(Shiny) Slime (King) / Rimuru": {
-    "value": 275,
-    "traits": 55,
+    "value": 500.0,
+    "traits": 100,
     "popularity": 5.0,
     "tier": "S-A Tier"
   },
-  "Gazelle (Zombie) / Giselle": {
-    "value": 225,
-    "traits": 45,
+  "Unevo Haruka Rin": {
+    "value": 425.0,
+    "traits": 85,
     "popularity": 6.0,
     "tier": "S-A Tier"
   },
+  "Gazelle (Zombie) / Giselle": {
+    "value": 325.0,
+    "traits": 65,
+    "popularity": 5.0,
+    "tier": "S-A Tier"
+  },
   "Saiko (Spirit Medium) / Seiko": {
-    "value": 215,
-    "traits": 43,
+    "value": 315.0,
+    "traits": 63,
+    "popularity": 5.0,
+    "tier": "S-A Tier"
+  },
+  "(Shiny) Slime (King) / Rimuru": {
+    "value": 275.0,
+    "traits": 55,
     "popularity": 4.0,
     "tier": "S-A Tier"
   },
   "(Shiny) Mohato / Mahito": {
-    "value": 115,
-    "traits": 23,
+    "value": 255.0,
+    "traits": 51,
     "popularity": 5.0,
     "tier": "S-A Tier"
   },
   "(Shiny) Mechamar / Mechamaru": {
-    "value": 115,
-    "traits": 23,
+    "value": 255.0,
+    "traits": 51,
     "popularity": 5.0,
     "tier": "S-A Tier"
   },
-  "(Shiny) Giyu / Ginyu": {
-    "value": 110,
-    "traits": 22,
-    "popularity": 6.0,
-    "tier": "S-A Tier"
-  },
-  "(Shiny) Rodock / Bardock": {
-    "value": 110,
-    "traits": 22,
-    "popularity": 6.0,
-    "tier": "S-A Tier"
-  },
   "(Shiny) Lethal Bee / Killer Bee": {
-    "value": 105,
-    "traits": 21,
+    "value": 250.0,
+    "traits": 50,
     "popularity": 4.0,
     "tier": "S-A Tier"
   },
   "(Shiny) Stone Lee / Rock Lee": {
-    "value": 105,
-    "traits": 21,
+    "value": 250.0,
+    "traits": 50,
     "popularity": 4.0,
     "tier": "S-A Tier"
   },
+  "(Shiny) Giyu / Ginyu": {
+    "value": 245.0,
+    "traits": 49,
+    "popularity": 6.0,
+    "tier": "S-A Tier"
+  },
+  "(Shiny) Rodock / Bardock": {
+    "value": 245.0,
+    "traits": 49,
+    "popularity": 6.0,
+    "tier": "S-A Tier"
+  },
   "Choy Jong En (Guild Leader) / Choi Jong-In": {
-    "value": 100,
-    "traits": 20,
-    "popularity": 4.0,
-    "tier": "B Tier"
-  },
-  "(Shiny) Ishtar (Divinity)": {
-    "value": 90,
-    "traits": 18,
-    "popularity": 3.0,
-    "tier": "B Tier"
-  },
-  "(Shiny) Okorun (Turbo) / Okarun": {
-    "value": 90,
-    "traits": 18,
-    "popularity": 3.0,
-    "tier": "B Tier"
-  },
-  "(Shiny) Pweeny (Boxer)  / Peeny-Weeny": {
-    "value": 90,
-    "traits": 18,
-    "popularity": 3.0,
-    "tier": "B Tier"
-  },
-  "(Shiny) Mimi (Psychic) / Momo": {
-    "value": 90,
-    "traits": 18,
+    "value": 200,
+    "traits": 40,
     "popularity": 3.0,
     "tier": "B Tier"
   },
   "Diogo (Alternate) / Diego Brando": {
-    "value": 85,
-    "traits": 17,
-    "popularity": 5.0,
+    "value": 175,
+    "traits": 35,
+    "popularity": 6.0,
+    "tier": "B Tier"
+  },
+  "Monkey King (Awakened) / Jin Mori": {
+    "value": 155,
+    "traits": 31,
+    "popularity": 8.0,
     "tier": "B Tier"
   },
   "Haruka Rin (Dancer)": {
-    "value": 75,
-    "traits": 15,
+    "value": 150,
+    "traits": 30,
     "popularity": 6.0,
     "tier": "B Tier"
   },
   "Conqueror vs Invulnerable / Mark (Invincible)": {
-    "value": 75,
-    "traits": 15,
+    "value": 145,
+    "traits": 29,
+    "popularity": 6.0,
+    "tier": "B Tier"
+  },
+  "Clatakiri (Mochi) / Katakuri": {
+    "value": 140,
+    "traits": 28,
     "popularity": 5.0,
     "tier": "B Tier"
   },
   "Friran (Teacher) / Frieren": {
+    "value": 130,
+    "traits": 26,
+    "popularity": 3.0,
+    "tier": "B Tier"
+  },
+  "(Shiny) Mimi (Psychic) / Momo": {
+    "value": 100,
+    "traits": 20,
+    "popularity": 3.0,
+    "tier": "B Tier"
+  },
+  "(Shiny) Pweeny (Boxer)  / Peeny-Weeny": {
+    "value": 100,
+    "traits": 20,
+    "popularity": 3.0,
+    "tier": "B Tier"
+  },
+  "(Shiny) Okorun (Turbo) / Okarun": {
+    "value": 100,
+    "traits": 20,
+    "popularity": 3.0,
+    "tier": "B Tier"
+  },
+  "(Shiny) Ishtar (Divinity)": {
+    "value": 95,
+    "traits": 19,
+    "popularity": 3.0,
+    "tier": "B Tier"
+  },
+  "Mohato / Mahito": {
+    "value": 85,
+    "traits": 17,
+    "popularity": 3.0,
+    "tier": "B Tier"
+  },
+  "Mechamar / Mechamaru": {
+    "value": 85,
+    "traits": 17,
+    "popularity": 3.0,
+    "tier": "B Tier"
+  },
+  "Stone Lee / Rock Lee": {
+    "value": 80,
+    "traits": 16,
+    "popularity": 2.0,
+    "tier": "B Tier"
+  },
+  "Lethal Bee / Killer Bee": {
+    "value": 80,
+    "traits": 16,
+    "popularity": 2.0,
+    "tier": "B Tier"
+  },
+  "Giyu / Ginyu": {
     "value": 75,
     "traits": 15,
     "popularity": 4.0,
     "tier": "B Tier"
   },
-  "Clatakiri (Mochi) / Katakuri": {
-    "value": 70,
-    "traits": 14,
-    "popularity": 5.0,
-    "tier": "B Tier"
-  },
-  "Monkey King (Awakened) / Jin Mori": {
-    "value": 70,
-    "traits": 14,
-    "popularity": 5.0,
-    "tier": "B Tier"
-  },
-  "(Shiny) Al (Good) / Aladdin": {
-    "value": 60,
-    "traits": 12,
-    "popularity": 5.0,
-    "tier": "B Tier"
-  },
-  "(Shiny) Sakuya (Time Maid) / Sakuya": {
-    "value": 60,
-    "traits": 12,
-    "popularity": 2.0,
-    "tier": "B Tier"
-  },
-  "(Shiny) Luce (Hacker) / Lucy": {
-    "value": 55,
-    "traits": 11,
-    "popularity": 5.0,
-    "tier": "B Tier"
-  },
-  "Regnaw (Rage) / Ragna": {
-    "value": 55,
-    "traits": 11,
+  "Rodock / Bardock": {
+    "value": 75,
+    "traits": 15,
     "popularity": 4.0,
     "tier": "B Tier"
   },
   "Renguko (Purgatory) / Rengoku": {
+    "value": 70,
+    "traits": 14,
+    "popularity": 4.0,
+    "tier": "B Tier"
+  },
+  "Regnaw (Rage) / Ragna": {
+    "value": 65,
+    "traits": 13,
+    "popularity": 4.0,
+    "tier": "B Tier"
+  },
+  "(Shiny) Al (Good) / Aladdin": {
+    "value": 55,
+    "traits": 11,
+    "popularity": 5.0,
+    "tier": "B Tier"
+  },
+  "(Shiny) Sakuya (Time Maid) / Sakuya": {
+    "value": 55,
+    "traits": 11,
+    "popularity": 2.0,
+    "tier": "B Tier"
+  },
+  "(Shiny) Luce (Hacker) / Lucy": {
     "value": 50,
     "traits": 10,
-    "popularity": 4.0,
+    "popularity": 5.0,
     "tier": "B Tier"
   },
   "Slime (King) / Rimuru": {
@@ -333,42 +369,6 @@
     "value": 40,
     "traits": 8,
     "popularity": 4.0,
-    "tier": "B Tier"
-  },
-  "Mohato / Mahito": {
-    "value": 35,
-    "traits": 7,
-    "popularity": 3.0,
-    "tier": "B Tier"
-  },
-  "Mechamar / Mechamaru": {
-    "value": 35,
-    "traits": 7,
-    "popularity": 3.0,
-    "tier": "B Tier"
-  },
-  "Giyu / Ginyu": {
-    "value": 35,
-    "traits": 7,
-    "popularity": 4.0,
-    "tier": "B Tier"
-  },
-  "Rodock / Bardock": {
-    "value": 35,
-    "traits": 7,
-    "popularity": 4.0,
-    "tier": "B Tier"
-  },
-  "Stone Lee / Rock Lee": {
-    "value": 35,
-    "traits": 7,
-    "popularity": 2.0,
-    "tier": "B Tier"
-  },
-  "Lethal Bee / Killer Bee": {
-    "value": 35,
-    "traits": 7,
-    "popularity": 2.0,
     "tier": "B Tier"
   },
   "(Shiny) Foboko (Hellish) / Fubuki": {
@@ -393,12 +393,6 @@
     "value": 25,
     "traits": 5,
     "popularity": 4.0,
-    "tier": "C Tier"
-  },
-  "(Shiny) Newsman (Forecast) / Weather Report": {
-    "value": 25,
-    "traits": 5,
-    "popularity": 6.0,
     "tier": "C Tier"
   },
   "(Shiny) Hei (Black Dragon) / Hiei": {
